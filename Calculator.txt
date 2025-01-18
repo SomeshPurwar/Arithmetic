@@ -1,6 +1,6 @@
-class Calculator{
-	main
 	
+
+
 
 
 
@@ -11,4 +11,4 @@ class Calculator{
 	}
 
 
-}
+
